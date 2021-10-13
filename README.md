@@ -4,24 +4,24 @@
 
 ## Hello there! I'm Alex Wentz (they/she).
 
-I'm a full-stack software engineer currently studying at Flatiron School. I have a background in math education and taught high school math for six years. My interests include but are not limited to: EdTech, FinTech, public policy, social progress, and cats.
+I'm a full-stack software engineer currently studying at Flatiron School. I have a background in math education and taught high school for six years. My interests include but are not limited to: edtech, fintech, emerging technologies, travel, and social progress.
 
-Want to know more about me? Check out my one-pager with links to connect on your preferred social media: [fromwentzitcame.com](https://www.fromwentzitcame.com)
+Want to know more about me? Check out my one-pager with links to follow my blogging and/or connect on your preferred social media: [fromwentzitcame.com](https://www.fromwentzitcame.com)
 
 ### Pinned Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fromwentzitcame&repo=phase-1-group-project&theme=algolia)](https://github.com/fromwentzitcame/phase-1-group-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fromwentzitcame&repo=phase-1-practice-dog-show&theme=tokyonight)](https://github.com/fromwentzitcame/phase-1-prctice-dog-show)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fromwentzitcame&repo=phase-1-mock-cc-ramen-rater&theme=tokyonight)](https://github.com/fromwentzitcame/phase-1-mock-cc-ramen-rater)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fromwentzitcame&repo=phase-1-group-project&theme=dark)](https://github.com/fromwentzitcame/phase-1-group-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fromwentzitcame&repo=phase-1-practice-dog-show&theme=dark)](https://github.com/fromwentzitcame/phase-1-prctice-dog-show)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fromwentzitcame&repo=phase-1-practice-toy-tale&theme=dark)](https://github.com/fromwentzitcame/phase-1-practice-toy-tale)
 
 ### GitHub Stats
 
 <a href="https://github.com/fromwentzitcame">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fromwentzitcame&theme=tokyonight" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fromwentzitcame&theme=dark" />
 </a>
 
 <a href="https://github.com/fromwentzitcame">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=fromwentzitcame&show_icons=true&line_height=27&count_private=true&theme=tokyonight" alt="Alex's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=fromwentzitcame&show_icons=true&line_height=27&count_private=true&theme=dark" alt="Alex's GitHub Stats" />
 </a>
 
 ### Skills
