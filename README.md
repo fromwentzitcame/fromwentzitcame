@@ -17,9 +17,12 @@ Want to know more about me? Check out my one-pager with links to follow my blogg
 
 ### GitHub Stats
 
-<a href="https://github.com/fromwentzitcame">
+<!-- <a href="https://github.com/fromwentzitcame">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fromwentzitcame&theme=gruvbox" />
-</a>
+</a> -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fromwentzitcame)](https://github.com/fromwentzitcame)
+
 
 <a href="https://github.com/fromwentzitcame">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=fromwentzitcame&show_icons=true&line_height=27&count_private=true&theme=gruvbox" alt="Alex's GitHub Stats" />
