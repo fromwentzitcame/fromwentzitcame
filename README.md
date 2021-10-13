@@ -15,18 +15,17 @@ Want to know more about me? Check out my one-pager with links to follow my blogg
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fromwentzitcame&repo=phase-1-practice-dog-show&theme=gruvbox)](https://github.com/fromwentzitcame/phase-1-practice-dog-show)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fromwentzitcame&repo=phase-1-practice-toy-tale&theme=gruvbox)](https://github.com/fromwentzitcame/phase-1-practice-toy-tale)
 
+<!-- 
 ### GitHub Stats
 
-<!-- <a href="https://github.com/fromwentzitcame">
+<a href="https://github.com/fromwentzitcame">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fromwentzitcame&theme=gruvbox" />
-</a> -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fromwentzitcame)](https://github.com/fromwentzitcame)
-
+</a>
 
 <a href="https://github.com/fromwentzitcame">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=fromwentzitcame&show_icons=true&line_height=27&count_private=true&theme=gruvbox" alt="Alex's GitHub Stats" />
-</a>
+</a>.
+-->
 
 ### Skills
 
@@ -37,5 +36,3 @@ Want to know more about me? Check out my one-pager with links to follow my blogg
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=blue)
-
-<br>
