@@ -11,7 +11,7 @@ Want to know more about me? Check out my one-pager with links to follow my blogg
 ### Pinned Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fromwentzitcame&repo=phase-1-group-project&theme=dark)](https://github.com/fromwentzitcame/phase-1-group-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fromwentzitcame&repo=phase-1-practice-dog-show&theme=dark)](https://github.com/fromwentzitcame/phase-1-prctice-dog-show)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fromwentzitcame&repo=phase-1-practice-dog-show&theme=dark)](https://github.com/fromwentzitcame/phase-1-practice-dog-show)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fromwentzitcame&repo=phase-1-practice-toy-tale&theme=dark)](https://github.com/fromwentzitcame/phase-1-practice-toy-tale)
 
 ### GitHub Stats
