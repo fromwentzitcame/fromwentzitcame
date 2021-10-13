@@ -11,19 +11,19 @@ Want to know more about me? Check out my one-pager with links to follow my blogg
 ### Pinned Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fromwentzitcame&repo=fromwentzitcame&theme=dark)](https://github.com/fromwentzitcame/fromwentzitcame)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fromwentzitcame&repo=phase-1-group-project&theme=gruvbox)](https://github.com/fromwentzitcame/phase-1-group-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fromwentzitcame&repo=phase-1-practice-dog-show&theme=gruvbox)](https://github.com/fromwentzitcame/phase-1-practice-dog-show)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fromwentzitcame&repo=phase-1-practice-toy-tale&theme=gruvbox)](https://github.com/fromwentzitcame/phase-1-practice-toy-tale)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fromwentzitcame&repo=phase-1-group-project&theme=dark)](https://github.com/fromwentzitcame/phase-1-group-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fromwentzitcame&repo=phase-1-practice-dog-show&theme=dark)](https://github.com/fromwentzitcame/phase-1-practice-dog-show)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fromwentzitcame&repo=phase-1-practice-toy-tale&theme=dark)](https://github.com/fromwentzitcame/phase-1-practice-toy-tale)
 
 <!-- 
 ### GitHub Stats
 
 <a href="https://github.com/fromwentzitcame">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fromwentzitcame&theme=gruvbox" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fromwentzitcame&theme=dark" />
 </a>
 
 <a href="https://github.com/fromwentzitcame">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=fromwentzitcame&show_icons=true&line_height=27&count_private=true&theme=gruvbox" alt="Alex's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=fromwentzitcame&show_icons=true&line_height=27&count_private=true&theme=dark" alt="Alex's GitHub Stats" />
 </a>.
 -->
 
