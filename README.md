@@ -10,7 +10,7 @@ Want to know more about me? Check out my one-pager with links to connect on your
 
 ### Pinned Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fromwentzitcame&repo=phase-1-group-project&theme=tokyonight)](https://github.com/fromwentzitcame/phase-1-group-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fromwentzitcame&repo=phase-1-group-project&theme=algolia)](https://github.com/fromwentzitcame/phase-1-group-project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fromwentzitcame&repo=phase-1-practice-dog-show&theme=tokyonight)](https://github.com/fromwentzitcame/phase-1-prctice-dog-show)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fromwentzitcame&repo=phase-1-mock-cc-ramen-rater&theme=tokyonight)](https://github.com/fromwentzitcame/phase-1-mock-cc-ramen-rater)
 
