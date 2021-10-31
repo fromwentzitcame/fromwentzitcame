@@ -8,13 +8,17 @@ I'm a full-stack software engineer currently studying at Flatiron School. I have
 
 Want to know more about me? Check out my one-pager with links to follow my blogging and/or connect on your preferred social media: [fromwentzitcame.com](https://www.fromwentzitcame.com)
 
+### Blog Post Spotlights
+
+[Conditional Rendering in React: A Quick Introduction](https://dev.to/fromwentzitcame/conditional-rendering-in-react-a-quick-introduction-38i3)
+
 ### Pinned Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fromwentzitcame&repo=fromwentzitcame&theme=dark)](https://github.com/fromwentzitcame/fromwentzitcame)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fromwentzitcame&repo=phase-2-partner-project&theme=dark)](https://github.com/fromwentzitcame/phase-2-partner-project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fromwentzitcame&repo=phase-1-group-project&theme=dark)](https://github.com/fromwentzitcame/phase-1-group-project)
 
-<!-- 
+
 ### GitHub Stats
 
 <a href="https://github.com/fromwentzitcame">
@@ -24,12 +28,13 @@ Want to know more about me? Check out my one-pager with links to follow my blogg
 <a href="https://github.com/fromwentzitcame">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=fromwentzitcame&show_icons=true&line_height=27&count_private=true&theme=dark" alt="Alex's GitHub Stats" />
 </a>.
--->
+
 
 ### Skills
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=VisualStudio&logoColor=white&color=blue)
