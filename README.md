@@ -12,11 +12,17 @@ Want to know more about me? Check out my one-pager with links to follow my blogg
 
 [Conditional Rendering in React: A Quick Introduction](https://dev.to/fromwentzitcame/conditional-rendering-in-react-a-quick-introduction-38i3)
 
+[Working with Tables in React: Render and Edit Fetched Data](https://dev.to/fromwentzitcame/working-with-tables-in-react-how-to-render-and-edit-fetched-data-5fl5)
+
+[Your Go-To Rails Command Line Cheat Sheet!](https://dev.to/fromwentzitcame/your-go-to-rails-command-line-cheat-sheet-1ok7)
+
 ### Pinned Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fromwentzitcame&repo=fromwentzitcame&theme=dark)](https://github.com/fromwentzitcame/fromwentzitcame)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fromwentzitcame&repo=mountalgo&theme=dark)](https://github.com/fromwentzitcame/mountalgo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fromwentzitcame&repo=phase-2-partner-project&theme=dark)](https://github.com/fromwentzitcame/phase-2-partner-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fromwentzitcame&repo=phase-1-group-project&theme=dark)](https://github.com/fromwentzitcame/phase-1-group-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fromwentzitcame&repo=phase-3-group-project-devenir&theme=dark)](https://github.com/fromwentzitcame/phase-3-group-project-devenir)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fromwentzitcame&repo=phase-3-sinatra-react-project&theme=dark)](https://github.com/fromwentzitcame/phase-3-sinatra-react-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fromwentzitcame&repo=fromwentzitcame&theme=dark)](https://github.com/fromwentzitcame/fromwentzitcame)
 <!-- ### GitHub Stats
 
 <a href="https://github.com/fromwentzitcame">
@@ -33,6 +39,7 @@ Want to know more about me? Check out my one-pager with links to follow my blogg
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Rails-informational?style=flat&logo=RubyonRails&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=VisualStudio&logoColor=white&color=blue)
