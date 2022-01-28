@@ -4,7 +4,7 @@
 
 ## Hello there! I'm Alex Wentz (they/she).
 
-I'm a full-stack software engineer currently studying at Flatiron School. I have a background in math education and taught high school for six years. My interests include but are not limited to: edtech, fintech, emerging technologies, travel, and social progress.
+I'm a full-stack software engineer who recently graduated from Flatiron School. I have a background in math education and taught high school for six years. My interests include but are not limited to: edtech, fintech, emerging technologies, travel, and social progress.
 
 Want to know more about me? Check out my one-pager with links to follow my blogging and/or connect on your preferred social media: [fromwentzitcame.com](https://www.fromwentzitcame.com)
 
