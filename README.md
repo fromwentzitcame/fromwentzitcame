@@ -4,7 +4,7 @@
 
 ## Hello there! I'm Alex Wentz (they/she).
 
-I'm a full-stack software engineer who recently graduated from Flatiron School. I have a background in math education and taught high school for six years. My interests include but are not limited to: edtech, fintech, emerging technologies, travel, and social progress.
+I'm a full-stack software engineer currently working in front-end web and mobile development. After teaching high school math for six years, I completed Flatiron's engineering bootcamp in January 2022. My interests include but are not limited to: edtech, fintech, emerging technologies, travel, and social progress.
 
 Want to know more about me? Check out my one-pager with links to follow my blogging and/or connect on your preferred social media: [fromwentzitcame.com](https://www.fromwentzitcame.com)
 
@@ -24,6 +24,7 @@ Want to know more about me? Check out my one-pager with links to follow my blogg
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fromwentzitcame&repo=phase-3-group-project-devenir&theme=dark)](https://github.com/fromwentzitcame/phase-3-group-project-devenir)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fromwentzitcame&repo=phase-3-sinatra-react-project&theme=dark)](https://github.com/fromwentzitcame/phase-3-sinatra-react-project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fromwentzitcame&repo=fromwentzitcame&theme=dark)](https://github.com/fromwentzitcame/fromwentzitcame)
+
 <!-- ### GitHub Stats
 
 <a href="https://github.com/fromwentzitcame">
@@ -38,11 +39,14 @@ Want to know more about me? Check out my one-pager with links to follow my blogg
 ### Skills
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-React_Native-informational?style=flat&logo=React&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Rails-informational?style=flat&logo=RubyonRails&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=RubyonRails&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=VisualStudio&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=blue)
