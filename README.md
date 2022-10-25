@@ -41,6 +41,7 @@ Want to know more about me? Check out my one-pager with links to follow my blogg
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-React_Native-informational?style=flat&logo=React&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=RubyonRails&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=blue)
