@@ -53,4 +53,6 @@ Want to know more about me? Check out my one-pager with links to follow my blogg
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=blue)
 
+<br>
 
+*Like this profile? I used [this tutorial](https://daily.dev/blog/creating-a-killer-github-profile-readme-part-1) as inspiration.*
