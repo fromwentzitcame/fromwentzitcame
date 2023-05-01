@@ -1,4 +1,4 @@
-[![Alex's Banner](./assets/banner.png)](https://www.fromwentzitcame.com)
+[![Alex's Banner](./assets/updatedbanner.png)](https://www.fromwentzitcame.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=plastic&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/alex_wentz)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=plastic&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/alexwentz/)
 
