@@ -8,13 +8,13 @@ I'm a full-stack software engineer currently working in front-end web and mobile
 
 Want to know more about me? Check out my one-pager with links to follow my blogging and/or connect on your preferred social media: [fromwentzitcame.com](https://www.fromwentzitcame.com)
 
-### Blog Post Spotlights
+<!-- ### Blog Post Spotlights
 
 [Conditional Rendering in React: A Quick Introduction](https://dev.to/fromwentzitcame/conditional-rendering-in-react-a-quick-introduction-38i3)
 
 [Working with Tables in React: Render and Edit Fetched Data](https://dev.to/fromwentzitcame/working-with-tables-in-react-how-to-render-and-edit-fetched-data-5fl5)
 
-[Your Go-To Rails Command Line Cheat Sheet!](https://dev.to/fromwentzitcame/your-go-to-rails-command-line-cheat-sheet-1ok7)
+[Your Go-To Rails Command Line Cheat Sheet!](https://dev.to/fromwentzitcame/your-go-to-rails-command-line-cheat-sheet-1ok7) -->
 
 <!-- ### Pinned Repositories
 
@@ -25,7 +25,7 @@ Want to know more about me? Check out my one-pager with links to follow my blogg
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fromwentzitcame&repo=phase-3-sinatra-react-project&theme=dark)](https://github.com/fromwentzitcame/phase-3-sinatra-react-project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fromwentzitcame&repo=fromwentzitcame&theme=dark)](https://github.com/fromwentzitcame/fromwentzitcame) -->
 
-### GitHub Stats
+<!-- ### GitHub Stats
 
 <a href="https://github.com/fromwentzitcame">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fromwentzitcame&theme=dark" />
@@ -34,7 +34,7 @@ Want to know more about me? Check out my one-pager with links to follow my blogg
 <a href="https://github.com/fromwentzitcame">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=fromwentzitcame&show_icons=true&line_height=27&count_private=true&theme=dark" alt="Alex's GitHub Stats" />
 </a>
-
+ -->
 
 ### Skills
 
