@@ -1,4 +1,4 @@
-[![Alex's Banner](./assets/updatedbanner.png)](https://www.fromwentzitcame.com)
+[![Alex's Banner](./assets/20230628banner.png)](https://www.fromwentzitcame.com)
 
 ## Hello there! I'm Alex Wentz (they/them).
 
