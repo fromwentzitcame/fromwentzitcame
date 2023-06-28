@@ -1,12 +1,15 @@
 [![Alex's Banner](./assets/updatedbanner.png)](https://www.fromwentzitcame.com)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=plastic&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/alex_wentz)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=plastic&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/alexwentz/)
 
 ## Hello there! I'm Alex Wentz (they/them).
 
-I'm a full-stack software engineer currently working in front-end web and mobile development. After teaching high school math for six years, I completed Flatiron's engineering bootcamp in January 2022. My interests include but are not limited to: edtech, fintech, emerging technologies, travel, and social progress.
+I'm a full-stack software engineer currently working in front-end web and mobile development. After teaching high school math for six years, I completed Flatiron's engineering bootcamp in January 2022. My interests include but are not limited to: fintech, edtech, greentech, emerging technologies, and social progress.
+
+I have extensive git experience, ranging from working with forks, to rebasing, to GitHub Actions, and love learning new ways to leverage GitHub. Unfortunately, most of the more recent evidence of that experience is owned by a private, corporate-owned account.
 
 Want to know more about me? Check out my one-pager with links to follow my blogging and/or connect on your preferred social media: [fromwentzitcame.com](https://www.fromwentzitcame.com)
+
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=plastic&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/alex_wentz)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=plastic&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/alexwentz/)
 
 <!-- ### Blog Post Spotlights
 
